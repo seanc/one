@@ -14,7 +14,7 @@ OneLang. Too lazy to type out short responses? Use this map!
 | s      | same    |
 | y      | yeah    |
 | d      | done    |
-| i	 | idk	   |
-| w	 | why	   |
-| g	 | gg	   |
-| n	 | nah or no |
+| i	     | idk	   |
+| w      | why     |
+| g      | gg      |
+| n	     | nah or no |
