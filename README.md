@@ -14,3 +14,4 @@ OneLang. Too lazy to type out short responses, use this map!
 | s      | same    |
 | y      | yeah    |
 | d      | done    |
+| i	 | idk	   |
