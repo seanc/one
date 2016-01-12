@@ -1,5 +1,5 @@
 # one
-OneLang. Too lazy to type out short responses, use this map!
+OneLang. Too lazy to type out short responses? Use this map!
 
 ## Map
 | Symbol | Meaning |
