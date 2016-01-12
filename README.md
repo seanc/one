@@ -1,23 +1,16 @@
-# one
-OneLang (a.k.a. 1). Too lazy to type out short responses? Use this map!
+one
+===
+OneLang. Too lazy to type out short responses? Use this map!
 
-## Map
+See the [auto updating map](seanc.github.io/one).
 
-<!-- Only put 2 symbols max. in chart.  3 max. are reserved for another chart. -->
+## Examples
 
 | In  | Out
 | :-- | :--
-| l   | lol
-| k   | ok
-| o   | oh
 | b   | brb
-| m   | lmao
-| m+  | lmfao
-| p   | pls
-| s   | same
+| k   | ok, okay
 | y   | yes, yeah
-| d   | done
-| i	  | idk
-| w   | why
-| g   | gg
-| n	  | no, nah
+| n   | no, nah
+
+See more at the [auto updating map](seanc.github.io/one).
