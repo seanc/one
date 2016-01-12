@@ -15,3 +15,5 @@ OneLang. Too lazy to type out short responses? Use this map!
 | y      | yeah    |
 | d      | done    |
 | i	 | idk	   |
+| w	 | why	   |
+| g	 | gg	   |
