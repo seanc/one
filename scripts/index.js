@@ -16,7 +16,7 @@ $(function() {
 
       item.append([
         $('<div class="symbol"></div>').text(s),
-        $('<div class="result"></div>').text(r),
+        $('<div class="result"></div>').html(r.map(x => '<span>' + x + '</span>')),
       ]);
 
       list.append(item);
