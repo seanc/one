@@ -1,0 +1,24 @@
+{
+  "name": "one",
+  "homepage": "https://github.com/seanc/one",
+  "authors": [
+    "Jamen Marzonie <jamenmarz@gmail.com>"
+  ],
+  "description": "One's website bower package",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
