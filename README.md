@@ -2,7 +2,7 @@ one
 ===
 OneLang. Too lazy to type out short responses? Use this map!
 
-See the [auto updating map](seanc.github.io/one).
+See the [auto updating map](http://seanc.github.io/one).
 
 ## Examples
 
@@ -13,4 +13,4 @@ See the [auto updating map](seanc.github.io/one).
 | y   | yes, yeah
 | n   | no, nah
 
-See more at the [auto updating map](seanc.github.io/one).
+See more at the [auto updating map](http://seanc.github.io/one).
