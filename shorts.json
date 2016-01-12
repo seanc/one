@@ -1,14 +1,16 @@
 {
   "l": ["lol"],
   "k": ["ok", "okay"],
-  "h": ["oh"],
+  "o": ["oh"],
   "b": ["brb"],
   "m": ["lmao"],
+  "m+": ["lmfao"],
   "p": ["pls"],
   "s": ["same"],
-  "y": ["yeah", "yes", "mhm"],
-  "d": ["done", "finished"],
+  "y": ["yeah", "yes"],
+  "d": ["done"],
   "i": ["idk"],
   "w": ["why"],
-  "n": ["nah", "no", "nope"]
+  "g": ["gg"],
+  "n": ["nah", "no"]
 }
