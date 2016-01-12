@@ -6,7 +6,7 @@ OneLang (a.k.a. 1). Too lazy to type out short responses? Use this map!
 <!-- Only put 2 symbols max. in chart.  3 max. are reserved for another chart. -->
 
 | In  | Out
-| --- | ---
+| :-- | :--
 | l   | lol
 | k   | ok
 | o   | oh
