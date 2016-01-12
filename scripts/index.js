@@ -1,10 +1,8 @@
 $(function() {
   // Auto-generate list
   var list = $('.map-list');
-  var item = $('<div class="map-item"></div>');
   var sym = $('<div class="symbol"></div>');
   var res = $('<div class="result"></div>');
-  item.append([ sym, res ]);
 
   $.ajax({
     type: 'GET',
@@ -13,11 +11,15 @@ $(function() {
   })
   .success(function(map) {
     var r = null;
+    var item = null;
     for (var s in map) {
+      item = $('<div class="map-item"></div>')
       r = map[s];
 
       sym.text(s);
       res.text(r);
+
+      item.append([ sym, res ]);
 
       list.append(item);
     }
