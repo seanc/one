@@ -9,7 +9,7 @@ OneLang. Too lazy to type out short responses, use this map!
 | h      | oh      |
 | b      | brb     |
 | m      | lmao    |
-| mf     | lmfao   |
+| m+     | lmfao   |
 | p      | pls     |
 | s      | same    |
 | y      | yeah    |
