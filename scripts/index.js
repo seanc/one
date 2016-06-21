@@ -15,7 +15,7 @@ $(function() {
     }
   }
 
-  var shortsHandler = list.bind($('.map-list'));
+  var shortsHandler = list.bind($('.short-list'));
   $.getJSON('https://raw.githubusercontent.com/seanc/one/master/shorts.json', shortsHandler);
   
   var propsHandler = list.bind($('.prop-list'));
