@@ -1,5 +1,5 @@
 $(function() {
-  function list(map) {
+  function list(map, list) {
     var r = null;
     var item = null;
     for (var s in map) {
@@ -11,15 +11,15 @@ $(function() {
         $('<div class="result"></div>').html(r.map(x => '<span>' + x + '</span>')),
       ]);
 
-      this.append(item);
+      list.append(item);
     }
   }
 
-  $.getJSON('https://raw.githubusercontent.com/seanc/one/master/shorts.json', function() {
-    list.call($('.short-list'));
+  $.getJSON('https://raw.githubusercontent.com/seanc/one/master/shorts.json', function(map) {
+    list(map, $('.short-list'));
   });
   
-  $.getJSON('https://raw.githubusercontent.com/seanc/one/master/props.json', function() {
-    list.call($('.prop-list'));
+  $.getJSON('https://raw.githubusercontent.com/seanc/one/master/props.json', function(map) {
+    list(map, $('.prop-list'));
   });
 });
